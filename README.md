@@ -14,5 +14,6 @@ JavaScript
 OpenWeatherMap API
 Font Awesome
 
-If you have any questions or suggestions, feel free to reach out at [pandeychandan231502.com] or connect on www.linkedin.com/in/chandan-pandey-770740264.
+If you have any questions or suggestions, feel free to reach out at pandeychandan231502.com
+ or connect on www.linkedin.com/in/chandan-pandey-770740264.
  
