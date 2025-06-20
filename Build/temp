@@ -1,0 +1,44 @@
+# User Registration and Login System using JSP, Servlet, JDBC, and MySQL
+
+## 📌 Project Overview
+
+This is a basic Java web application that allows users to register and log in using JSP, Servlet, and MySQL. The project demonstrates how to create dynamic forms, connect to a database using JDBC, and manage sessions in a Java EE web environment.
+
+## 🚀 Features
+
+- User Registration Form
+- Login Authentication
+- Welcome Page after Login (using Session)
+- Error Handling for wrong credentials
+- Data stored in MySQL using JDBC
+
+## 🛠️ Technologies Used
+
+- Java (Servlet & JSP)
+- JDBC
+- MySQL
+- Apache Tomcat
+- Eclipse IDE
+
+## 📂 Files Included
+
+- `register.jsp`
+- `login.jsp`
+- `profile.jsp`
+- `Registerr.java`
+- `Login.java`
+- `insertDemo.java`
+
+## 🧪 How to Run
+
+1. Clone or download this repository.
+2. Import the project in Eclipse as a Dynamic Web Project.
+3. Set up a MySQL database named `yt_demo` and create a `register` table.
+4. Update database username and password in Java files.
+5. Deploy the project on Apache Tomcat.
+6. Access the web pages via your browser.
+
+## 🧠 Author
+
+Chandan Pandey  
+MCA Student | Java Developer | SQL Enthusiast
